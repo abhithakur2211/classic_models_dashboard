@@ -23,6 +23,3 @@ This repository contains the Classic Model Dashboard project, an analytical tool
 - Clone the repository, and review the documentation for setup instructions.
 - Open the Power BI file to explore the dashboard interactively.
 - Use the SQL scripts to understand the data structure and manipulation processes.
-
-**Contributing:**
-Feel free to fork this repository, propose changes through pull requests, and submit issues if you find bugs or have suggestions for improvement.
